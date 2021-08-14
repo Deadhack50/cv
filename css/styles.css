@@ -162,6 +162,12 @@ a:hover {
     width: 100px;
     height: 98px;
     border-radius: 100%;
+    transition: 1s;
+    cursor:pointer;
+  }
+  
+  .my-image:hover{
+    transform: scale(1.1);
   }
 
   .top-container {
