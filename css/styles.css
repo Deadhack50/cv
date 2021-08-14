@@ -74,7 +74,7 @@ a:hover {
 
 .my-image {
   width: 5%;
-  height: 5%;
+  height: 4%;
   border-radius: 100%;
 }
 
@@ -83,7 +83,7 @@ a:hover {
   margin: auto;
 }
 
-.contact-message {
+#contact-message {
   width: 40%;
   margin: 40px auto 60px;
 }
