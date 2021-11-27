@@ -154,6 +154,9 @@ a:hover {
 }
 
 @media(max-width: 375px) {
+  body {
+font-size 16px;
+}
   h1 {
     font-size: 3rem;
   }
